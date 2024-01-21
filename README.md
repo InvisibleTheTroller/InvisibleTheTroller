@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InvisibleTheTroller
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java and C++.
+- 🌱 I’m currently learning Java, C++ and HTML.
 - 💞️ I’m looking to collaborate on Discord and Github.
 - 📫 I'm looking for a friend who can learn programming together.
 - My Discord is Invisible#9883.
